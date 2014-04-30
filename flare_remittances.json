@@ -5,19 +5,19 @@
    "name": "analytics",
    "children": [
     {
-     "name": "Four Largest Services",
+     "name": "cluster",
      "children": [
-      {"name": "Kenya Commerical Bank (KCB)", "size": 1983000},
-      {"name": "Western Union", "size": 1128305},
-      {"name": "Money Gram", "size": 1123245},
-      {"name": "UBA AfriCash", "size": 991500}
+      {"name": "AgglomerativeCluster", "size": 3938},
+      {"name": "CommunityStructure", "size": 3812},
+      {"name": "HierarchicalCluster", "size": 6714},
+      {"name": "MergeEdge", "size": 743}
      ]
     },
     {
-     "name": "Large Services",
+     "name": "graph",
      "children": [
-      {"name": "Stanbic Bank", "size": 973800,}
-      {"name": "Twiga Bancorp", "size": 973500},
+      {"name": "BetweennessCentrality", "size": 3534},
+      {"name": "LinkDistance", "size": 5731},
       {"name": "MaxFlowMinCut", "size": 7840},
       {"name": "ShortestPaths", "size": 5914},
       {"name": "SpanningTree", "size": 3416}
