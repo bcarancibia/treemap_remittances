@@ -17,7 +17,7 @@
     {
      "name": "",
      "children": [
-      {"name": "Stanbic Bank", "size": 973800,
+      {"name": "Stanbic Bank", "size": 973800,}
       {"name": "Twiga Bancorp", "size": 973500},
       {"name": "MaxFlowMinCut", "size": 7840},
       {"name": "ShortestPaths", "size": 5914},
