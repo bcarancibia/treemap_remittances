@@ -6,12 +6,12 @@
    "name": "analytics",
    "children": [
     {
-     "name": "cluster",
+     "name": "Four Largest Services",
      "children": [
-      {"name": "AgglomerativeCluster", "size": 3938},
-      {"name": "CommunityStructure", "size": 3812},
-      {"name": "HierarchicalCluster", "size": 6714},
-      {"name": "MergeEdge", "size": 743}
+      {"name": "Kenya Commerical Bank (KCB)", "size": 1983000},
+      {"name": "Western Union", "size": 1128305},
+      {"name": "Money Gram", "size": 1123245},
+      {"name": "UBA AfriCash", "size": 991500}
      ]
     },
     {
