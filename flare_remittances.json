@@ -18,14 +18,21 @@
      "children": [
       {"name": "ABSA", "size": 6},
       {"name": "Afritrans", "size": 1},
-      {"name": "Al Ansari", "size": 1},
-      {"name": "Al Fardan Exchange", "size": 1}
+      {"name": "Al Ansari", "size": 3},
+      {"name": "Al Fardan Exchange", "size": 2}
      ]
     },
     {
-     "name": "optimization",
-     "children": [
-      {"name": "AspectRatioBanker", "size": 7074}
+     "name": "Cote d'Ivoire",
+    "children": [
+      {"name": "Al-Rajhi Bank", "size": 1},
+      {"name": "Amal Express", "size": 1},
+      {"name": "Attijariwafa Bank", "size": 3},
+      {"name": "BBVA Dinero Express", "size": 1},
+      {"name": "BNP Paribas", "size": 6},
+      {"name": "Banca Intesa SanPaolo", "size": 1},
+      {"name": "Banca Intesa SanPaolo via Western Union", "size": 3},
+      {"name": "Banca Monte dei Paschi di Siena", "size": 6}
      ]
     }
    ]
