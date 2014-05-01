@@ -5,22 +5,21 @@
    "name": "analytics",
    "children": [
     {
-     "name": "cluster",
+     "name": "Angola",
      "children": [
-      {"name": "AgglomerativeCluster", "size": 3938},
-      {"name": "CommunityStructure", "size": 3812},
-      {"name": "HierarchicalCluster", "size": 6714},
-      {"name": "MergeEdge", "size": 743}
+      {"name": "1st Contact Forex", "size": 1},
+      {"name": "ABC Bank", "size": 2},
+      {"name": "ABN AMRO Bank", "size": 3},
+      {"name": "ABSA", "size": 2}
      ]
     },
     {
-     "name": "graph",
+     "name": "Botswana",
      "children": [
-      {"name": "BetweennessCentrality", "size": 3534},
-      {"name": "LinkDistance", "size": 5731},
-      {"name": "MaxFlowMinCut", "size": 7840},
-      {"name": "ShortestPaths", "size": 5914},
-      {"name": "SpanningTree", "size": 3416}
+      {"name": "ABSA", "size": 6},
+      {"name": "Afritrans", "size": 1},
+      {"name": "Al Ansari", "size": 1},
+      {"name": "Al Fardan Exchange", "size": 1}
      ]
     },
     {
